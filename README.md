@@ -64,3 +64,25 @@ Welcome, admin!
 5) Reset daily sales
 6) Add new user
 7) Exit
+
+
+
+## FOR PYTHON VERSION
+## 🛠️ Tech Stack
+
+- Python 3
+- Streamlit
+- SQLite
+- Pandas
+- hashlib (for password hashing)
+
+## Install requirements
+  pip install -r requirements.txt
+
+## RUN the file
+   streamlit run app.py
+   
+   
+![Screenshot 2025-06-18 200652](https://github.com/user-attachments/assets/d8a35be4-b4fd-4c48-88fc-1cf154287492)
+
+  
