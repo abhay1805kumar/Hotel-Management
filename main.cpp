@@ -1,12 +1,5 @@
 #include <bits/stdc++.h>
-#include <memory>
 #include <sqlite3.h>
-#include <ctime>
-#include <iomanip>
-#include <sstream>
-#include <functional>
-#include <fstream>
-#include <limits>
 
 
 // Forward declarations
