@@ -1,6 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
+#include <bits/stdc++.h>
 #include <memory>
 #include <sqlite3.h>
 #include <ctime>
@@ -10,7 +8,6 @@
 #include <fstream>
 #include <limits>
 
-// Modern C++ Hotel Management System with SQLite Database
 
 // Forward declarations
 class Item;
