@@ -649,6 +649,8 @@ private:
 };
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
     HotelApp app;
     
     if (app.initialize()) {
